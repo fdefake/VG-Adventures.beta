@@ -1,7 +1,6 @@
 body {
   padding: 0;
   margin: 0;
-  background-color: black;
 }
 #unity-container {
   position: absolute;
@@ -14,6 +13,7 @@ body {
 #unity-container.unity-mobile {
   width: 100%;
   height: 100%;
+  background-color: black;
 }
 #unity-canvas {
   background: #231f20;
